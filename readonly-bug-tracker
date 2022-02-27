@@ -1,0 +1,3 @@
+yarn run test app
+yarn run test
+yarn add @types/uuid
